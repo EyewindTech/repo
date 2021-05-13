@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.oppo.game.sdk</groupId>
+  <artifactId>common</artifactId>
+  <versioning>
+    <release>v2.080.10</release>
+    <versions>
+      <version>v2.080.10</version>
+    </versions>
+    <lastUpdated>20210513063331</lastUpdated>
+  </versioning>
+</metadata>
